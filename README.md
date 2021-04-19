@@ -1,2 +1,2 @@
-# golang-uppy-js-example
-Simple file upload system usign uppy.js and golang
+# golang-uppy-io-example
+Simple file uploading example with uppy.io and golang.
